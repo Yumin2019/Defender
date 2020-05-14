@@ -1,5 +1,4 @@
 # Defender
-2020.4.4~4.6 Defender 창작(DirectX 9)
 
    장르: 횡스크롤 슈팅
 
